@@ -53,7 +53,7 @@ if __name__ == "__main__":
     # Setup ChatAnthropic
     chat = ChatAnthropic(
         temperature=0,
-        anthropic_api_key="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",
+        anthropic_api_key=st.secrets["key"],
         model_name="claude-3-opus-20240229"
     )
     
