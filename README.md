@@ -58,3 +58,6 @@ price
 "regular_price":"৳32,990"
 }
 ```
+
+# Model and API
+For this experimentation we used the Anthropic Claude Model of which we used the API.The API is provided here as demo but you will have to use your own api for running the app.
