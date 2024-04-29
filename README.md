@@ -7,7 +7,7 @@ This is a web scraper using LLM where you can provide any URL and provide schema
 
 
 # Installation
-To install Company Investigator, clone this repository using the following command:
+To install Web Scrapper, clone this repository using the following command:
 ```
 git clone https://github.com/Shoaib-33/Web-Scrapper-using-LLM.git
 ```
